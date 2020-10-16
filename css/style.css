@@ -235,7 +235,7 @@ header{
   /*Your code here again.*/
   /*You will want four selectors*/  
   
-  .body {
+  body {
     background-image: none;
   } 
   .pricing{
